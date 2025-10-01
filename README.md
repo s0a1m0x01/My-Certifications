@@ -3,7 +3,7 @@
 
 List of Certificates:
 1. DevTown
-2. be10x
+2. Be10x
 3. AWS SKillBuilder
 4. Cisco NetAcad
 5. Tech Mahindra
