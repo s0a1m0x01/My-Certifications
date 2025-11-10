@@ -10,6 +10,7 @@ List of Certificates:
 6. Forage
 7. IBM SkillsBuild
 8. Linkedin Learning
+9. DataCamp
 
 Internship Certificates:
 1. Academor
